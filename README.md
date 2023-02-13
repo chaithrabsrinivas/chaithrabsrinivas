@@ -4,6 +4,7 @@
 **chaithrabsrinivas/chaithrabsrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![computer-work](https://user-images.githubusercontent.com/118888201/218550941-bfa4b6da-4994-41d4-8b6d-91e4d938bf7d.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![computer-work](https://user-images.githubusercontent.com/118888201/218550941-bfa4b6da-4994-41d4-8b6d-91e4d938bf7d.gif)
+
 -->
