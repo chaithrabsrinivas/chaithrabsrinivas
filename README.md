@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chaithra B S</h1>
-<h3 align="center">ISE Student @ SIET</h3>
+<h3 align="center"> software developer </h3>
 
 
 
